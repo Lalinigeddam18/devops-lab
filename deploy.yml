@@ -1,5 +1,4 @@
----
-- name: Deploy the Greeting application
+---- name: Deploy the Greeting application
   hosts: tradelive
   become: yes
   tasks:
